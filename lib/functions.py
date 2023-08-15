@@ -27,9 +27,3 @@ def halve(number):
 
 halve(4)
 
-
-# def greet(name):
-#     print("Hello, {}!".format(name))
-
-# def greet_with_default(name="programmer"):
-#     print("Hello, {}!".format(name))
